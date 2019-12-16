@@ -1,0 +1,53 @@
+.. Phimp.me documentation master file, created by
+   sphinx-quickstart on Wed Dec 11 19:27:14 2019.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+
+====================================
+
+
+Welcome to Phimp.me's documentation!
+
+
+Phimp.me is an Android image editor app that aims to replace proprietary photographing and image apps on smart phones. It offers features such as taking photos, adding filters, editing images and uploading them to social networks. Phimp.me stands for Photos - Images - Pictures. It is developed at FOSSASIA together with a global community.
+
+
+
+
+
+====================================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+
+Features
+====================================
+1.Click beautiful images using the Phimp.me app. Use various advanced scene modes and variety of balance modes.
+
+2.You can use your voice actions to invoke Camera, Just say “Ok Google click a picture”. You can also select front and rear camera based on voice.
+
+3.Browse the local gallery inside the app with folder and all photos mode. Copy, move and add a description to the images.
+
+4.Edit images with various cool filters with optimized performance, built using OpenCV library.
+
+5.Enhance contrast, hue, Satur, temp, tint, and sharpness of the image.
+
+6.Use ‘Crop and rotate’ features from Transform section to get your perfect image.
+
+7.Apply different stickers - facial, express, objects, comments, wishes, emojis, hashtag.
+
+8.Write anything on the images in your handwriting!
+
+9.Don’t be afraid to experiment as you can easily go back and forth with ‘redo’ and ‘undo’.
+
+10.Finally, after all this editing you can easily share the image to your favourite social media sites with our easy-to-use sharing feature.
+Facebook, Messenger, Twitter, NextCloud,
+
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
